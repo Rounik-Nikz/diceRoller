@@ -10,7 +10,7 @@
 	<title>Roll a dice!</title>
 	<style>
 		body {
-			background-color: black;
+			background-color: blue;
 			color: white;
 			text-align: center;
 			position: relative;
